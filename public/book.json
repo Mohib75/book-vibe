@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
+    "review": "A timeless classic that captures the essence of the Jazz Age and the pursuit of the American Dream.",
+    "totalPages": 180,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": ["Classics", "Romance", "Drama"],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 2,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/1200px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+    "review": "A powerful narrative that tackles themes of racism and morality in the American South.",
+    "totalPages": 336,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": ["Classics", "Social Justice", "Coming-of-age"],
+    "publisher": "J.B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 3,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://m.media-amazon.com/images/I/612ADI+BVlL._AC_UF1000,1000_QL80_.jpg",
+    "review": "A chilling dystopian novel that remains eerily relevant in today's society.",
+    "totalPages": 328,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": ["Dystopian", "Political", "Philosophical"],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
+    "review": "A provocative exploration of teenage angst and alienation that resonates with readers of all ages.",
+    "totalPages": 224,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": ["Coming-of-age", "Literary", "Rebellion"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "bookId": 5,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://booksondemand.ma/cdn/shop/products/PrideandPrejudicebyJaneAusten.jpg?v=1609440724",
+    "review": "A delightful romance that cleverly satirizes the societal norms of early 19th-century England.",
+    "totalPages": 432,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Romance", "Satire", "Regency Era"],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  },
+  {
+    "bookId": 6,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://i.harperapps.com/covers/9780063388475/y648.jpg",
+    "review": "An enchanting tale of adventure and heroism set in the mythical world of Middle-earth.",
+    "totalPages": 310,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": ["Adventure", "Middle-earth", "Quest"],
+    "publisher": "George Allen & Unwin",
+    "yearOfPublishing": 1937
+  }
+]
