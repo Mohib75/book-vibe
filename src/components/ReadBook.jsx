@@ -93,7 +93,7 @@ const ReadBook = () => {
 							<hr className='border-[1px] w-full border-[#13131326] border-solid my-2' />
 
 							<div className='grid grid-cols-1 place-items-center sm:grid-cols-3 gap-8'>
-								<div className='w-[170px] p-4 rounded-[30px] bg-[#328EFF26] text-[#328EFF] flex justify-center items-center leading-5'>
+								<div className='w-[200px] p-4 rounded-[30px] bg-[#328EFF26] text-[#328EFF] flex justify-center items-center leading-5'>
 									<p>Category: {book.category}</p>
 								</div>
 
